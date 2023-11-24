@@ -57,14 +57,3 @@ npm run start
 ```
 
 Access the web app at http://localhost:3000/
-
-Admin:
-Email: admin@gmail.com
-Pass: admin@gmail.com
-
-User:
-Email: user1@gmail.com
-Pass: user1@gmail.com
-
-Paypal: sb-6uesj25098388@personal.example.com
-pass: user1000
